@@ -7,17 +7,12 @@ PyTorch implementation of multi-label movie genre classification from posters co
   <img src="https://github.com/user-attachments/assets/placeholder-hash" height="400" alt="Movie Genre Generator Dashboard">
 </h1>
   <p align="center">
-    <a href="https://github.com/Muxi98">Tomer Biran</a> •
-    <a href="#">Adi Friedlander</a>
-  </p>
-  <p align="center">
-    <a href="#">Linkedin</a> •
-    <a href="#">Linkedin</a> •
-    <a href="#">Linkedin</a>
+    <a>Tomer Biran</a> •
+    <a<>Adi Friedlander</a>
   </p>
 <p align="center">
 Video:
-  <a href="#">YouTube</a>
+  <a href="#">TBC</a>
 </p>
 
 - [Table of contents](#Table-of-contents)
