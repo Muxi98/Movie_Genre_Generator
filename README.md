@@ -126,7 +126,11 @@ Standard multi-class accuracy is a flawed metric for multi-label datasets. This 
 ## References
 
 [1] https://github.com/sbajamy/Music-Genre-Classification-Using-Audio-Spectrogram-Transformer
+
 [2] https://huggingface.co/datasets/stzhao/movie_posters_100k_controlnet
+
 [3] https://github.com/Spandan-Madan/DeepLearningProject/tree/master
+
 [4] https://www.kaggle.com/code/krutarthhd/genre-prediction-from-the-movie-poster
+
 [5] https://github.com/ovedtal1/MambaVision-Genre-Classification
