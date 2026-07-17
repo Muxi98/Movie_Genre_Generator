@@ -26,7 +26,7 @@ This repository contains the code, models, and analytical tools for a comprehens
 This project tackles the difficult computer vision challenge of **Multi-Label Classification** in an environment with highly subjective visual language, overlapping semantic categories, and severe dataset imbalances.
 
 ## Dataset
-The project utilizes the online streaming layer of the `stzhao/movie_posters_100k_controlnet` dataset hosted via Hugging Face. The data is parsed in real time to yield movie poster matrices mapped across **15 distinct binary genre classification labels**. This setup eliminates the need for massive local storage, streaming batches dynamically directly into training loops.
+The project utilizes the online streaming layer of the `stzhao/movie_posters_100k_controlnet` dataset hosted via Hugging Face. The data is parsed in real time to yield movie poster matrices mapped across **12 distinct binary genre classification labels**. This setup eliminates the need for massive local storage, streaming batches dynamically directly into training loops.
 
 ## Prerequisites
 | Library | Version |
